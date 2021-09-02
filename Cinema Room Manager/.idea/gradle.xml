@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong?" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Print &quot;We are robots!&quot;" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

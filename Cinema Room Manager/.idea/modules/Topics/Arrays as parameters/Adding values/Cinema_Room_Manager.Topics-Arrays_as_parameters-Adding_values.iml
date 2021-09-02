@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Arrays_as_parameters-Adding_values" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Adding values" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema_Room_Manager" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Adding values">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Adding values/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Adding values/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Adding values/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
