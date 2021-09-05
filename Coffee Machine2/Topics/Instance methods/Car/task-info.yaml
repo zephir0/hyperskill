@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Car {
+
+        int yearModel;
+        String make;
+        int speed;
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2988#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 04 Sep 2021 22:40:24 UTC
+record: -1
